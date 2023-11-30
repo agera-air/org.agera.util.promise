@@ -4,6 +4,6 @@
     "compilerOptions": {
         "include-sources": ["src"],
         "library-path": ["libs"],
-        "output": "swc/org.agera.util.promise.swc"
+        "output": "swc/org.agera.util.swc"
     }
 }

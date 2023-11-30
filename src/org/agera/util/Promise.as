@@ -6,7 +6,8 @@ package org.agera.util {
      * The Promise object represents the eventual completion (or failure)
      * of an asynchronous operation and its resulting value.
      * 
-     * Consult www.developer.mozilla.org for more information on Promise.
+     * <p>The Promise class is based on the ECMA-262 Promise object.
+     * Consult www.developer.mozilla.org for more information on Promise.</p>
      *
      * <p><b>Examples</b></p>
      * 
@@ -17,13 +18,13 @@ package org.agera.util {
      * 
      * promise
      *     .then(function(value: *): * {
-     *         // Action
+     *         // then
      *     })
      *     .otherwise(function(error: *): * {
-     *         // Action
+     *         // catch
      *     })
      *     .always(function():void {
-     *         // Action
+     *         // finally
      *     });
      * </listing>
      */
