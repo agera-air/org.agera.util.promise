@@ -1,4 +1,4 @@
-package org.agera.util {
+package agera.util {
     /**
      * Assigns properties from <code>argument</code> to <code>base</code>.
      * For every property P1 in <code>base</code> whose value is an object,

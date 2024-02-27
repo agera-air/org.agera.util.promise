@@ -1,8 +1,8 @@
-package org.agera.util {
+package agera.util {
     /**
-     * Provides static functions for commma delimiting numbers.
+     * Provides static functions for delimiting decimal numbers by comma.
      */
-    public final class CommaNumber {
+    public final class NumberCommaDelimiter {
         /**
          * Separates a double-precision floating point into commas.
          */

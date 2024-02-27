@@ -5,6 +5,6 @@
         "include-sources": ["src"],
         "source-path": ["src"],
         "library-path": ["libs"],
-        "output": "swc/org.agera.util.swc"
+        "output": "swc/agera.util.swc"
     }
 }

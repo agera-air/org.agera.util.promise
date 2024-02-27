@@ -1,4 +1,4 @@
-package org.agera.errors {
+package agera.errors {
     /**
      * Represents an assertion error.
      */

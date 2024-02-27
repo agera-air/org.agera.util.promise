@@ -1,4 +1,4 @@
-package org.agera.util {
+package agera.util {
     import flash.display.*;
 
     /**
@@ -19,12 +19,12 @@ package org.agera.util {
      * </ul>
      * </p>
      */
-    public final class DisplayPath {
+    public final class DisplayListPath {
         /**
          * @private
          */
-        public function DisplayPath(path: String) {
-            throw new Error("DisplayPath is a static class.");
+        public function DisplayListPath(path: String) {
+            throw new Error("DisplayListPath is a static class.");
         }
 
         /**

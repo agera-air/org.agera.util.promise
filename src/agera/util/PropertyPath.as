@@ -1,4 +1,4 @@
-package org.agera.util {
+package agera.util {
     /**
      * Resolves a property path.
      * A path consists of components delimited by forward slashes (<code>/</code>).

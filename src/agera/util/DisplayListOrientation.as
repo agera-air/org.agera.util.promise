@@ -1,11 +1,11 @@
-package org.agera.util {
+package agera.util {
     import flash.display.DisplayObject;
 
     /**
      * Provides static functions for positioning and rotating display objects
      * around a registration point.
      */
-    public final class DisplayOrient {
+    public final class DisplayListOrientation {
         /**
          * Positions and rotates a display object around its center registration
          * point. This function updates the <code>x</code>, <code>y</code> and <code>rotation</code>

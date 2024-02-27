@@ -1,6 +1,6 @@
 package {
     import flash.display.Sprite;
-    import org.agera.util.*;
+    import agera.util.*;
 
     public class Main extends Sprite {
         public function Main() {

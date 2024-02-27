@@ -1,5 +1,5 @@
-package org.agera.util {
-    import org.agera.errors.*;
+package agera.util {
+    import agera.errors.*;
 
     /**
      * @private

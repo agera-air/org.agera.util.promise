@@ -1,11 +1,11 @@
-package org.agera.util {
+package agera.util {
     import flash.display.*;
-    import org.agera.util.*;
+    import agera.util.*;
 
     /**
      * Indicates whether a display object is descendant of a possible ascending display object or not.
      */
-    public function displayIsDescendantOf(object: DisplayObject, ascending: DisplayObject): Boolean {
+    public function displayListIsDescendantOf(object: DisplayObject, ascending: DisplayObject): Boolean {
         var parent: DisplayObject = object.parent;
         while (parent != null) {
             if (parent == ascending) {

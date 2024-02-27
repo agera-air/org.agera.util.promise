@@ -1,4 +1,4 @@
-package org.agera.util {
+package agera.util {
     /**
      * @private
      */

@@ -1,4 +1,4 @@
-package org.agera.errors {
+package agera.errors {
     public class AggregateError extends Error {
         public var errors: Array;
 

@@ -1,4 +1,4 @@
-package org.agera.util {
+package agera.util {
     /**
      * Replaces parameters in a string. <code>argumentsObject</code>
      * can be either a plain object or an array.

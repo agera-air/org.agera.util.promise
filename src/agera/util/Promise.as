@@ -1,6 +1,6 @@
-package org.agera.util {
+package agera.util {
     import flash.utils.setTimeout;
-    import org.agera.errors.*;
+    import agera.errors.*;
 
     /**
      * The Promise object represents the eventual completion (or failure)
